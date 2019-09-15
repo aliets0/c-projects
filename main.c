@@ -62,7 +62,7 @@ int squarearea(length, height)
 {
     printf("ENTER LENGTH: ");
     scanf("%d", &length);
-    printf("ENTER HEIGHT: ");
+    printf("ENTER WIDTH: ");
     scanf("%d", &height);
     int area = length * height;
     printf("The Area is %d!", area);
